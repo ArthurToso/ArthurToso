@@ -1,4 +1,4 @@
-# Olá eu sou o Arthur:
+# :wave: Arthur Toso:
 Analista de Dados trabalhando atualmente com SAS<br>Estudante do Curso de Análise e Desenvolvimento de Sistemas UFPR<br>Aperfeiçoando habilidades em Python para atuar na área de Data Science<br>Afinidade com linguagem Java e C<br>
 
 # 💻 Habilidades:
