@@ -65,7 +65,7 @@ Group academic project (3 devs). I was responsible for the REST API built with F
 ### 🏫 [sistemaAvaliativo](https://github.com/ArthurToso/sistemaAvaliativo)
 > **Java Web · MVC · JPA/Hibernate · MySQL · Tomcat**
 
-Full-featured institutional evaluation system built with Java 17, Servlets, JSP and Hibernate. Features role-based access (Student, Teacher, Admin), anonymous surveys, automatic score calculation and consolidated reports. This project was built for the Object Oriented Programming class.
+Full-featured institutional evaluation system built with Java 17, Servlets, JSP and Hibernate. Features role-based access (Student, Teacher, Admin), anonymous surveys, automatic score calculation and consolidated reports. Developed as a semester project at UFPR.
 
 `Java 17` `Servlets` `JSP` `Hibernate` `JPA` `MySQL` `MVC` `Maven`
 
