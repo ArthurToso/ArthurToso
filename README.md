@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About me
 
-Developer passionate about automation and building things from scratch. I work as a Risk Analyst at Bradesco Seguros, but my real drive is writing Python scripts, REST APIs, and mobile apps that solve real problems. I study Systems Analysis & Development at UFPR and I'm always looking for opportunities to work closer to software development.
+Developer passionate about automation. I work at Bradesco Seguros, where beyond risk analysis I build Python scripts and Power Automate flows to automate internal processes. I study Systems Analysis & Development at UFPR and I'm actively looking to transition into a full-time software development role.
 
 ---
 
@@ -54,7 +54,7 @@ Batch automation that reads multiple PDF invoices, extracts structured data usin
 ---
 
 ### 🐍 [api-pokedex](https://github.com/ArthurToso/api-pokedex) + 📱 [Pokedex App](https://github.com/ArthurToso/Pokedex)
-> **Full-stack · FastAPI (Python) + Kotlin (Android) · Grupo de 3 devs / Team of 3**
+> **Full-stack · FastAPI (Python) + Kotlin (Android) · Team of 3**
 
 Group academic project (3 devs). I was responsible for the REST API built with FastAPI (Python) and integrating it with the Kotlin app, with authentication, models and schemas. The API is consumed by a native Android app written in Kotlin by me and the team.
 
