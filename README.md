@@ -71,7 +71,7 @@ Full-featured institutional evaluation system built with Java 17, Servlets, JSP 
 
 ---
 
-## 🎓 Education · Formação
+## 🎓 Education
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
 Universidade Federal do Paraná (UFPR) — Curitiba, PR
