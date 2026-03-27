@@ -78,18 +78,6 @@ Universidade Federal do Paraná (UFPR) — Curitiba, PR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurToso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurToso&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Always open to collaborating on automation and development projects*  
